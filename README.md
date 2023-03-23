@@ -2,8 +2,6 @@
 # 😎Lawrence.eth
 **`Digital Craftsman (Developer/Designer/Creator)`**
 
-<img align='right' alt='develoer illustration' src ='https://static-00.iconduck.com/assets.00/web-developer-illustration-503x512-mega3xxj.png'/>
-
 As a Full Stack Developer, I am committed to building innovative solutions that solve real-world problems. From the initial planning and design stages, to the final implementation of code, I take a hands-on approach to every project I work on.
    <p align="left">
       <a href="https://github.com/lawrenceku?tab=followers">
