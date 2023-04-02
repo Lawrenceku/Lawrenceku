@@ -1,5 +1,5 @@
-# 👋Hello World!
-# 😎Lawrence.eth
+## 👋Hello World!
+
 **`Digital Craftsman (Developer/Designer/Creator)`**
 
 As a Full Stack Developer, I am committed to building innovative solutions that solve real-world problems. From the initial planning and design stages, to the final implementation of code, I take a hands-on approach to every project I work on.
