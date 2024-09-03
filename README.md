@@ -16,10 +16,7 @@ As a Full Stack Developer, I am committed to building innovative solutions that 
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" />
-<img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -39,7 +36,7 @@ As a Full Stack Developer, I am committed to building innovative solutions that 
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
- As a Full Stack Developer, I have gained a wealth of knowledge and experience in both frontend and backend technologies. I am capable of building web applications from scratch, from the initial idea to the final deployment. I have a deep understanding of tools and languages such as HTML5, CSS3, JavaScript, React, Node.js, MongoDB, MySQL, and AWS, among others.
+ As a  Software Engineer, I have gained a wealth of knowledge and experience in both frontend and backend technologies. I am capable of building web applications from scratch, from the initial idea to the final deployment. I have a deep understanding of tools and languages such as HTML5, CSS3, JavaScript, React, Node.js, MongoDB, MySQL, and AWS, among others.
 
 I always strive to learn and stay updated with the latest technologies and trends in the industry. I am constantly seeking out new challenges and opportunities to collaborate with others.
 
