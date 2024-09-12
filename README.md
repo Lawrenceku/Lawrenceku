@@ -28,14 +28,13 @@ As a Full Stack Developer, I am committed to building innovative solutions that 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=lawrenceku&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceku&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--### 📊 Stats
-
-#-->
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
  As a  Software Engineer, I have gained a wealth of knowledge and experience in both frontend and backend technologies. I am capable of building web applications from scratch, from the initial idea to the final deployment. I have a deep understanding of tools and languages such as HTML5, CSS3, JavaScript, React, Node.js, MongoDB, MySQL, and AWS, among others.
 
 I always strive to learn and stay updated with the latest technologies and trends in the industry. I am constantly seeking out new challenges and opportunities to collaborate with others.
