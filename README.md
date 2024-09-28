@@ -29,8 +29,8 @@ As a Full Stack Developer, I am committed to building innovative solutions that 
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=lawrenceku&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceku&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lawrenceku&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceku&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <details>
