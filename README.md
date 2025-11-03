@@ -1,8 +1,3 @@
-## 👋Hello World!
-
-**`Digital Craftsman (Developer/Designer/Creator)`**
-
-As a Full Stack Developer, I am committed to building innovative solutions that solve real-world problems. From the initial planning and design stages, to the final implementation of code, I take a hands-on approach to every project I work on.
    <p align="left">
       <a href="https://github.com/lawrenceku?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lawrenceku?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -28,17 +23,4 @@ As a Full Stack Developer, I am committed to building innovative solutions that 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=lawrenceku&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrenceku&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<details>
- <summary><h3>👨‍💻 My Journey</h3></summary>
- As a  Software Engineer, I have gained a wealth of knowledge and experience in both frontend and backend technologies. I am capable of building web applications from scratch, from the initial idea to the final deployment. I have a deep understanding of tools and languages such as HTML5, CSS3, JavaScript, React, Node.js, MongoDB, MySQL, and AWS, among others.
-
-I always strive to learn and stay updated with the latest technologies and trends in the industry. I am constantly seeking out new challenges and opportunities to collaborate with others.
-
-With my diverse toolbox of skills and experience, I am confident in my ability to create scalable, high-performance web applications that meet the unique needs of businesses and their users. As a Full Stack Developer, I am passionate about what I do and committed to delivering innovative and effective solutions that drive success.
-
-[website]: https://github/lawrenceku.com
